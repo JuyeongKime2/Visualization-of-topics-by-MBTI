@@ -6,4 +6,4 @@
 
 학습 언어: Python3
 
-사용모델 : 'LogisticRegression', 'SVC', 'RandomForestClassifier', 'GradientBoostingClassifier', 'XGBClassifier', 'LGBMClassifier', 'Heatmap'
+사용모델 : 'LogisticRegression', 'SVC', 'RandomForestClassifier', 'GradientBoostingClassifier', 'XGBClassifier', 'LGBMClassifier', 'Heatmap', 'Word Cloud'
