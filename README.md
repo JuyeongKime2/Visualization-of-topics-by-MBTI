@@ -1,5 +1,7 @@
 # Visualization-of-topics-by-MBTI: 상위 10개의 MBTI topic을 추출하여 시각화
 
+https://www.canva.com/design/DAGJ9hGLN9I/J1b-qqpsMQax3oD0ZdF8Ww/edit?utm_content=DAGJ9hGLN9I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 설명: 해당 모델은 전처리 후 정리된 파일을 사용했으므로 각 프로젝트의 특성에 맞게 수정이 필요함. 
 
 사용 데이터 : credit card fraud transaction dataset (Kaggle)
